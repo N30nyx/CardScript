@@ -1,6 +1,6 @@
 # CardScript
 
-The engine used in Neon to run card games. (used for discord but can be addapted
+The engine used in [Neon](https://top.gg/bot/769514287948496916) (under approval) to run card games. (used for discord but can be adapted)
 
 ### Usage:
 A basic card game where you pick the highest ranked card between the two cards dealt

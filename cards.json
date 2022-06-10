@@ -1,0 +1,544 @@
+{
+  "deck": {
+    "1": {
+      "color": "red",
+      "suit": "hearts",
+      "suit_mark": "♥",
+      "rank": 1,
+      "sign": "A",
+      "title": "Ace",
+      "title_mark": "♥",
+      "unicode": "U+1F0B1"
+    },
+    "2": {
+      "color": "red",
+      "suit": "hearts",
+      "suit_mark": "♥",
+      "rank": 2,
+      "sign": 2,
+      "title": "Two",
+      "title_mark": null,
+      "unicode": "U+1F0B2"
+    },
+    "3": {
+      "color": "red",
+      "suit": "hearts",
+      "suit_mark": "♥",
+      "rank": 3,
+      "sign": 3,
+      "title": "Three",
+      "title_mark": null,
+      "unicode": "U+1F0B3"
+    },
+    "4": {
+      "color": "red",
+      "suit": "hearts",
+      "suit_mark": "♥",
+      "rank": 4,
+      "sign": 4,
+      "title": "Four",
+      "title_mark": null,
+      "unicode": "U+1F0B4"
+    },
+    "5": {
+      "color": "red",
+      "suit": "hearts",
+      "suit_mark": "♥",
+      "rank": 5,
+      "sign": 5,
+      "title": "Five",
+      "title_mark": null,
+      "unicode": "U+1F0B5"
+    },
+    "6": {
+      "color": "red",
+      "suit": "hearts",
+      "suit_mark": "♥",
+      "rank": 6,
+      "sign": 6,
+      "title": "Six",
+      "title_mark": null,
+      "unicode": "U+1F0B6"
+    },
+    "7": {
+      "color": "red",
+      "suit": "hearts",
+      "suit_mark": "♥",
+      "rank": 7,
+      "sign": 7,
+      "title": "Seven",
+      "title_mark": null,
+      "unicode": "U+1F0B7"
+    },
+    "8": {
+      "color": "red",
+      "suit": "hearts",
+      "suit_mark": "♥",
+      "rank": 8,
+      "sign": 8,
+      "title": "Eight",
+      "title_mark": null,
+      "unicode": "U+1F0B8"
+    },
+    "9": {
+      "color": "red",
+      "suit": "hearts",
+      "suit_mark": "♥",
+      "rank": 9,
+      "sign": 9,
+      "title": "Nine",
+      "title_mark": null,
+      "unicode": "U+1F0B9"
+    },
+    "10": {
+      "color": "red",
+      "suit": "hearts",
+      "suit_mark": "♥",
+      "rank": 10,
+      "sign": 10,
+      "title": "Ten",
+      "title_mark": null,
+      "unicode": "U+1F0BA"
+    },
+    "11": {
+      "color": "red",
+      "suit": "hearts",
+      "suit_mark": "♥",
+      "rank": 11,
+      "sign": "J",
+      "title": "Jack",
+      "title_mark": "⚔",
+      "unicode": "U+1F0BB"
+    },
+    "12": {
+      "color": "red",
+      "suit": "hearts",
+      "suit_mark": "♥",
+      "rank": 12,
+      "sign": "Q",
+      "title": "Queen",
+      "title_mark": "♛",
+      "unicode": "U+1F0BD"
+    },
+    "13": {
+      "color": "red",
+      "suit": "hearts",
+      "suit_mark": "♥",
+      "rank": 13,
+      "sign": "K",
+      "title": "King",
+      "title_mark": "♚",
+      "unicode": "U+1F0BE"
+    },
+    "14": {
+      "color": "red",
+      "suit": "diamonds",
+      "suit_mark": "♦",
+      "rank": 1,
+      "sign": "A",
+      "title": "Ace",
+      "title_mark": "♦",
+      "unicode": "U+1F0C1"
+    },
+    "15": {
+      "color": "red",
+      "suit": "diamonds",
+      "suit_mark": "♦",
+      "rank": 2,
+      "sign": 2,
+      "title": "Two",
+      "title_mark": null,
+      "unicode": "U+1F0C2"
+    },
+    "16": {
+      "color": "red",
+      "suit": "diamonds",
+      "suit_mark": "♦",
+      "rank": 3,
+      "sign": 3,
+      "title": "Three",
+      "title_mark": null,
+      "unicode": "U+1F0C3"
+    },
+    "17": {
+      "color": "red",
+      "suit": "diamonds",
+      "suit_mark": "♦",
+      "rank": 4,
+      "sign": 4,
+      "title": "Four",
+      "title_mark": null,
+      "unicode": "U+1F0C4"
+    },
+    "18": {
+      "color": "red",
+      "suit": "diamonds",
+      "suit_mark": "♦",
+      "rank": 5,
+      "sign": 5,
+      "title": "Five",
+      "title_mark": null,
+      "unicode": "U+1F0C5"
+    },
+    "19": {
+      "color": "red",
+      "suit": "diamonds",
+      "suit_mark": "♦",
+      "rank": 6,
+      "sign": 6,
+      "title": "Six",
+      "title_mark": null,
+      "unicode": "U+1F0C6"
+    },
+    "20": {
+      "color": "red",
+      "suit": "diamonds",
+      "suit_mark": "♦",
+      "rank": 7,
+      "sign": 7,
+      "title": "Seven",
+      "title_mark": null,
+      "unicode": "U+1F0C7"
+    },
+    "21": {
+      "color": "red",
+      "suit": "diamonds",
+      "suit_mark": "♦",
+      "rank": 8,
+      "sign": 8,
+      "title": "Eight",
+      "title_mark": null,
+      "unicode": "U+1F0C8"
+    },
+    "22": {
+      "color": "red",
+      "suit": "diamonds",
+      "suit_mark": "♦",
+      "rank": 9,
+      "sign": 9,
+      "title": "Nine",
+      "title_mark": null,
+      "unicode": "U+1F0C9"
+    },
+    "23": {
+      "color": "red",
+      "suit": "diamonds",
+      "suit_mark": "♦",
+      "rank": 10,
+      "sign": 10,
+      "title": "Ten",
+      "title_mark": null,
+      "unicode": "U+1F0CA"
+    },
+    "24": {
+      "color": "red",
+      "suit": "diamonds",
+      "suit_mark": "♦",
+      "rank": 11,
+      "sign": "J",
+      "title": "Jack",
+      "title_mark": "⚔",
+      "unicode": "U+1F0CB"
+    },
+    "25": {
+      "color": "red",
+      "suit": "diamonds",
+      "suit_mark": "♦",
+      "rank": 12,
+      "sign": "Q",
+      "title": "Queen",
+      "title_mark": "♛",
+      "unicode": "U+1F0CD"
+    },
+    "26": {
+      "color": "red",
+      "suit": "diamonds",
+      "suit_mark": "♦",
+      "rank": 13,
+      "sign": "K",
+      "title": "King",
+      "title_mark": "♚",
+      "unicode": "U+1F0CE"
+    },
+    "27": {
+      "color": "red",
+      "suit": "joker",
+      "suit_mark": "☆",
+      "rank": 0,
+      "sign": "Joker",
+      "title": "Joker",
+      "title_mark": "⚜",
+      "unicode": "U+1F0BF"
+    },
+    "28": {
+      "color": "black",
+      "suit": "spades",
+      "suit_mark": "♠",
+      "rank": 1,
+      "sign": "A",
+      "title": "Ace",
+      "title_mark": "♠",
+      "unicode": "U+1F0A1"
+    },
+    "29": {
+      "color": "black",
+      "suit": "spades",
+      "suit_mark": "♠",
+      "rank": 2,
+      "sign": 2,
+      "title": "Two",
+      "title_mark": null,
+      "unicode": "U+1F0A2"
+    },
+    "30": {
+      "color": "black",
+      "suit": "spades",
+      "suit_mark": "♠",
+      "rank": 3,
+      "sign": 3,
+      "title": "Three",
+      "title_mark": null,
+      "unicode": "U+1F0A3"
+    },
+    "31": {
+      "color": "black",
+      "suit": "spades",
+      "suit_mark": "♠",
+      "rank": 4,
+      "sign": 4,
+      "title": "Four",
+      "title_mark": null,
+      "unicode": "U+1F0A4"
+    },
+    "32": {
+      "color": "black",
+      "suit": "spades",
+      "suit_mark": "♠",
+      "rank": 5,
+      "sign": 5,
+      "title": "Five",
+      "title_mark": null,
+      "unicode": "U+1F0A5"
+    },
+    "33": {
+      "color": "black",
+      "suit": "spades",
+      "suit_mark": "♠",
+      "rank": 6,
+      "sign": 6,
+      "title": "Six",
+      "title_mark": null,
+      "unicode": "U+1F0A6"
+    },
+    "34": {
+      "color": "black",
+      "suit": "spades",
+      "suit_mark": "♠",
+      "rank": 7,
+      "sign": 7,
+      "title": "Seven",
+      "title_mark": null,
+      "unicode": "U+1F0A7"
+    },
+    "35": {
+      "color": "black",
+      "suit": "spades",
+      "suit_mark": "♠",
+      "rank": 8,
+      "sign": 8,
+      "title": "Eight",
+      "title_mark": null,
+      "unicode": "U+1F0A8"
+    },
+    "36": {
+      "color": "black",
+      "suit": "spades",
+      "suit_mark": "♠",
+      "rank": 9,
+      "sign": 9,
+      "title": "Nine",
+      "title_mark": null,
+      "unicode": "U+1F0A9"
+    },
+    "37": {
+      "color": "black",
+      "suit": "spades",
+      "suit_mark": "♠",
+      "rank": 10,
+      "sign": 10,
+      "title": "Ten",
+      "title_mark": null,
+      "unicode": "U+1F0AA"
+    },
+    "38": {
+      "color": "black",
+      "suit": "spades",
+      "suit_mark": "♠",
+      "rank": 11,
+      "sign": "J",
+      "title": "Jack",
+      "title_mark": "⚔",
+      "unicode": "U+1F0AB"
+    },
+    "39": {
+      "color": "black",
+      "suit": "spades",
+      "suit_mark": "♠",
+      "rank": 12,
+      "sign": "Q",
+      "title": "Queen",
+      "title_mark": "♛",
+      "unicode": "U+1F0AD"
+    },
+    "40": {
+      "color": "black",
+      "suit": "spades",
+      "suit_mark": "♠",
+      "rank": 13,
+      "sign": "K",
+      "title": "King",
+      "title_mark": "♚",
+      "unicode": "U+1F0AE"
+    },
+    "41": {
+      "color": "black",
+      "suit": "clubs",
+      "suit_mark": "♣",
+      "rank": 1,
+      "sign": "A",
+      "title": "Ace",
+      "title_mark": "♣",
+      "unicode": "U+1F0D1"
+    },
+    "42": {
+      "color": "black",
+      "suit": "clubs",
+      "suit_mark": "♣",
+      "rank": 2,
+      "sign": 2,
+      "title": "Two",
+      "title_mark": null,
+      "unicode": "U+1F0D2"
+    },
+    "43": {
+      "color": "black",
+      "suit": "clubs",
+      "suit_mark": "♣",
+      "rank": 3,
+      "sign": 3,
+      "title": "Three",
+      "title_mark": null,
+      "unicode": "U+1F0D3"
+    },
+    "44": {
+      "color": "black",
+      "suit": "clubs",
+      "suit_mark": "♣",
+      "rank": 4,
+      "sign": 4,
+      "title": "Four",
+      "title_mark": null,
+      "unicode": "U+1F0D4"
+    },
+    "45": {
+      "color": "black",
+      "suit": "clubs",
+      "suit_mark": "♣",
+      "rank": 5,
+      "sign": 5,
+      "title": "Five",
+      "title_mark": null,
+      "unicode": "U+1F0D5"
+    },
+    "46": {
+      "color": "black",
+      "suit": "clubs",
+      "suit_mark": "♣",
+      "rank": 6,
+      "sign": 6,
+      "title": "Six",
+      "title_mark": null,
+      "unicode": "U+1F0D6"
+    },
+    "47": {
+      "color": "black",
+      "suit": "clubs",
+      "suit_mark": "♣",
+      "rank": 7,
+      "sign": 7,
+      "title": "Seven",
+      "title_mark": null,
+      "unicode": "U+1F0D7"
+    },
+    "48": {
+      "color": "black",
+      "suit": "clubs",
+      "suit_mark": "♣",
+      "rank": 8,
+      "sign": 8,
+      "title": "Eight",
+      "title_mark": null,
+      "unicode": "U+1F0D8"
+    },
+    "49": {
+      "color": "black",
+      "suit": "clubs",
+      "suit_mark": "♣",
+      "rank": 9,
+      "sign": 9,
+      "title": "Nine",
+      "title_mark": null,
+      "unicode": "U+1F0D9"
+    },
+    "50": {
+      "color": "black",
+      "suit": "clubs",
+      "suit_mark": "♣",
+      "rank": 10,
+      "sign": 10,
+      "title": "Ten",
+      "title_mark": null,
+      "unicode": "U+1F0DA"
+    },
+    "51": {
+      "color": "black",
+      "suit": "clubs",
+      "suit_mark": "♣",
+      "rank": 11,
+      "sign": "J",
+      "title": "Jack",
+      "title_mark": "⚔",
+      "unicode": "U+1F0DB"
+    },
+    "52": {
+      "color": "black",
+      "suit": "clubs",
+      "suit_mark": "♣",
+      "rank": 12,
+      "sign": "Q",
+      "title": "Queen",
+      "title_mark": "♛",
+      "unicode": "U+1F0DD"
+    },
+    "53": {
+      "color": "black",
+      "suit": "clubs",
+      "suit_mark": "♣",
+      "rank": 13,
+      "sign": "K",
+      "title": "King",
+      "title_mark": "♚",
+      "unicode": "U+1F0DE"
+    },
+    "54": {
+      "color": "black",
+      "suit": "joker",
+      "suit_mark": "★",
+      "rank": 0,
+      "sign": "Joker",
+      "title": "Joker",
+      "title_mark": "⚜",
+      "unicode": "U+1F0CF"
+    }
+  }
+}
